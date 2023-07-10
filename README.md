@@ -1,2 +1,1 @@
-# completable-future
-Completable future reference
+# Completable future
